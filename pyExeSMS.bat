@@ -1,1 +1,1 @@
-python pyExeSMS.py
+start pythonw pyExeSMS.py
